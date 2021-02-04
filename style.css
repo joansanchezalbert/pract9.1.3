@@ -1,0 +1,17 @@
+h2.h2 {
+    
+    font-weight: bold;
+}
+
+p.p {
+    text-align: center;
+    width: 310px;
+}
+
+div.campo {
+    position: relative;
+}
+ 
+label {
+    width: 100%;
+}
